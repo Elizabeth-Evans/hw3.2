@@ -1,0 +1,36 @@
+.right-side-bar{
+  width:30%;
+  display:inline-block;
+  vertical-align:top;
+  padding-top: 4%;
+  padding-left: 12%;
+  height:60%;
+
+}
+section.right-side-bar:last-child{
+  border-radius:0%;
+  height:25%;
+}
+.right-side-bar img{
+  height:40px;
+  border-radius:100%;
+
+}
+.right-side-bar span{
+  color: grey;
+  font-size: 8px;
+  display:inline-block;
+}
+.right-side-bar div{
+  display:inline;
+  padding-right: 15px;
+}
+.right-side-bar p{
+  color:blue;
+}
+
+#square span{
+  height:15%;
+  width:15%;
+  display:inline;
+}
